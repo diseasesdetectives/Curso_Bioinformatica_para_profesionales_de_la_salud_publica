@@ -17,5 +17,5 @@ https://github.com/diseasesdetectives/Curso_Bioinformatica_para_profesionales_de
 ```
 
 ```
-Modulo_1/Modulo_1_Notebook.ipynb
+Modulo_1/Modulo_1-Notebook_4.ipynb
 ```
