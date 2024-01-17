@@ -57,30 +57,26 @@ El programa cubrirá los siguientes temas generales:
 - Describir los principios generales en la traduccion a los decisores de los resultados de los analisis de brotes/epidemias/pandemias
 
 
-##modulos
+## Material del curso en repositorio github
 
-###Modulo 1
+- data_curso 
 
-###Modulo 2
-
-###Modulo 3
-
-###Modulo 4
-
+- directorio_notebooks
 
 ## Equipo de instructores
 <!-- example - [Carolina Torres](https://www.researchgate.net/profile/Carolina-Torres-7), Universidad de Buenos Aires - CONICET, Buenos Aires, Argentina   -->
-- [Katherine Laiton](), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
+- [Katherine Laiton](https://scholar.google.com.co/citations?user=jRxRgEUAAAAJ&hl=en), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Héctor Ruiz](), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
-- [Paola Rojas](), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
+- [Paola Rojas](https://www.researchgate.net/profile/Paola-Rojas-Estevez), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Johan F Bernal](https://vivo.agrosavia.co/display/n3887), [Corporacion Colombiana de Investigacion Agropecuaria - AGROSAVIA](https://www.agrosavia.co/), Bogota - Colombia.
 
-## Información adicional
+## Información soporte
 
-WCS LMS](https://lms.wellcomeconnectingscience.org/)       
+[WCS LMS](https://lms.wellcomeconnectingscience.org/)       
 [COG-Train Online courses](https://www.futurelearn.com/partners/wellcome-genome-campus)         
 [Your digital mentor podcast](https://coursesandconferences.wellcomeconnectingscience.org/our-events/your-digital-mentor-podcast/)       
 [WCS courses and conferences](https://coursesandconferences.wellcomeconnectingscience.org/)
+[Red nacional genomica de Colombia](https://www.ins.gov.co/Noticias/Paginas/coronavirus-genoma.aspx)
 
 _Any reuse of the course materials, data or code is encouraged with due acknowledgement._
 
