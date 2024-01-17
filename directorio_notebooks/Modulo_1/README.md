@@ -1,7 +1,7 @@
-##Curso de bioinformática para profesionales de la salud: Patogenos respiratorios
+## Curso de bioinformática para profesionales de la salud: Patogenos respiratorios
 
 
-#Práctica Módulo 1. Control de calidad secuencias crudas: Secuencias cortas y Secuencias largas
+# Práctica Módulo 1. Control de calidad secuencias crudas: Secuencias cortas y Secuencias largas
 
 
 La base para el contenido práctico de este curso será los cuadernos de notas de python (.ipynb). Los archivos .ipynb deben ser trabajados desde la plataforma de Google Colab - https://colab.research.google.com 
