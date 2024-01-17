@@ -20,7 +20,7 @@ Este curso fue desarollado a partir del curso '_SARS-CoV-2 Bioinformatics for Be
 
 ## Infraestructura computacional del curso  
 
-Este curso se desarrollará usando Google Colab - https://colab.research.google.com/, un servicio de acceso libre.
+Este curso se desarrollará usando [Google Colab](https://colab.research.google.com/), un servicio de acceso libre.
 
 El acceso a Google Colab se realiza en [Google Account](https://www.google.com/account/about/), y es libre de acceso.
 
@@ -37,11 +37,11 @@ Profesionales de la salud pública enfocados en la epidemiología genómica de v
 
 ## Programa del curso
 
+
 El programa cubrirá los siguientes temas generales:
 
 - Introducción a los _Python Notebooks_
 - Introducción a Unix/Linux y comandos básicos
-- Introducción a la secuenciacion de genoma completo y datos genómicos
 - Control de calidad de los datos crudos 
 - Análisis filogenéticos de virus de interés en salud pública
 - Tipificación de virus de interés en salud pública
@@ -50,32 +50,36 @@ El programa cubrirá los siguientes temas generales:
 ## Resultados de aprendizaje
 
 
-- Applicar herramientas bioinformaticas desde la linea de comando en ambiente UNIX/Linux
+- Applicar herramientas bioinformáticas desde la linea de comando en ambiente UNIX/Linux
 - Reconocer infraestructuras computacionales remotas UNIX/LINUX de libre acceso 
-- Generar los principales analisis en secuencias genomicas de los virus: SARSCoV2, H1N5 (gripe aviar) y Sincitial 
-- General reportes integrados y comprensivos de los analisis de secuencias de virus
-- Describir los principios generales en la traduccion a los decisores de los resultados de los analisis de brotes/epidemias/pandemias
+- Generar los principales analisis en secuencias genómicas de los virus: SARSCoV2, H1N5 (gripe aviar) y Sincitial 
+- General reportes integrados y comprensivos de los análisis de secuencias de virus
+- Describir los principios generales en la traducción a los decisores de los resultados de los análisis de brotes/epidemias/pandemias
 
 
 ## Material del curso en repositorio github
 
-- data_curso 
+- [data_curso] (https://github.com/diseasesdetectives/Curso_Bioinformatica_para_profesionales_de_la_salud_publica/tree/master/data_curso)
 
-- directorio_notebooks
+- [directorio_notebooks] (https://github.com/diseasesdetectives/Curso_Bioinformatica_para_profesionales_de_la_salud_publica/tree/master/directorio_notebooks)
 
 ## Equipo de instructores
-<!-- example - [Carolina Torres](https://www.researchgate.net/profile/Carolina-Torres-7), Universidad de Buenos Aires - CONICET, Buenos Aires, Argentina   -->
+
 - [Katherine Laiton](https://scholar.google.com.co/citations?user=jRxRgEUAAAAJ&hl=en), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Héctor Ruiz](), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Paola Rojas](https://www.researchgate.net/profile/Paola-Rojas-Estevez), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
-- [Johan F Bernal](https://vivo.agrosavia.co/display/n3887), [Corporacion Colombiana de Investigacion Agropecuaria - AGROSAVIA](https://www.agrosavia.co/), Bogota - Colombia.
+- [Johan F Bernal](https://scholar.google.com/citations?user=198RUBwAAAAJ&hl=en), [Corporacion Colombiana de Investigacion Agropecuaria - AGROSAVIA](https://www.agrosavia.co/), Bogota - Colombia.
 
 ## Información soporte
 
-[WCS LMS](https://lms.wellcomeconnectingscience.org/)       
-[COG-Train Online courses](https://www.futurelearn.com/partners/wellcome-genome-campus)         
-[Your digital mentor podcast](https://coursesandconferences.wellcomeconnectingscience.org/our-events/your-digital-mentor-podcast/)       
+[WCS LMS](https://lms.wellcomeconnectingscience.org/)
+
+[COG-Train Online courses](https://www.futurelearn.com/partners/wellcome-genome-campus)
+
+[Your digital mentor podcast](https://coursesandconferences.wellcomeconnectingscience.org/our-events/your-digital-mentor-podcast/)
+
 [WCS courses and conferences](https://coursesandconferences.wellcomeconnectingscience.org/)
+
 [Red nacional genomica de Colombia](https://www.ins.gov.co/Noticias/Paginas/coronavirus-genoma.aspx)
 
 _Any reuse of the course materials, data or code is encouraged with due acknowledgement._
