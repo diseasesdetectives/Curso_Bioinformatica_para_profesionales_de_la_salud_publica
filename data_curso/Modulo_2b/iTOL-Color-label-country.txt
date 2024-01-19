@@ -1,0 +1,103 @@
+TREE_COLORS
+#use this template to define branch colors and styles, colored ranges and label colors/font styles/backgrounds
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#First 3 fields define the node, type and color
+#Possible types are:
+#'range': defines a colored range (colored background for labels/clade)
+#'clade': defines color/style for all branches in a clade
+#'branch': defines color/style for a single branch
+#'label': defines font color/style for the leaf label
+'label_background': defines the leaf label background color
+
+#The following additional fields are required:
+#for 'range', field 4 defines the colored range label (used in the legend)
+
+#The following additional fields are optional:
+#for 'label', field 4 defines the font style ('normal',''bold', 'italic' or 'bold-italic') and field 5 defines the numeric scale factor for the font size (eg. with value 2, font size for that label will be 2x the standard size)
+#for 'clade' and 'branch', field 4 defines the branch style ('normal' or 'dashed') and field 5 defines the branch width scale factor (eg. with value 0.5, branch width for that clade will be 0.5 the standard width)
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+
+#NODE_ID TYPE COLOR LABEL_OR_STYLE SIZE_FACTOR
+
+#Examples
+#internal node with solid branches colored blue and twice the standard width
+#9031|9606 clade #0000ff normal 2
+#internal node with dashed branches colored red and one half the standard width
+#601|340 clade #ff0000 dashed 0.5
+#a single internal branch colored green, dashed and 5 times the normal width
+#915|777 branch #00ff00 dashed 5
+
+#colored range covering all leaves of an internal node,  colored red and with label 'Eukaryota'
+#184922|9606 range #ff0000 Eukaryota
+#examples of colored ranges from iTOL's Tree of Life
+#2190|2287 range #aaffaa Archaea
+#623|1502 range #aaaaff Bacteria
+
+#leaf label for node 9606 will be displayed in green, bold and twice the regular font size
+#9606 label #00ff00 bold 2
+
+#leaf label for node 9031 will be displayed in yellow, bold italic and half the regular font size
+#9031 label #ffff00 bold-italic 0.5
+
+#leaf label for node 8015 will be displayed in blue
+
+#leaf label for node 9606 will have a semi-transparent red background
+#9606 label_background rgba(255,0,0,0.5)
+
+DATA
+
+hCoV-19/Wuhan/WHUH012/2020|EPI	label_background	#5ca800
+hCoV-19/Colombia/DC-LSPSDS-347423/2022|EPI	label_background	#ff8b9e
+hCoV-19/Peru/CAL-CITBM-CC13	label_background	#7cd88e
+hCoV-19/Peru/TAC-INS-45494/2023|EPI	label_background	#7cd88e
+hCoV-19/Peru/CAL-INS-47601/2023|EPI	label_background	#7cd88e
+hCoV-19/Colombia/SAN-INS-VG-30352/2023|EPI	label_background	#ff8b9e
+hCoV-19/Peru/LIM-INS-45578/2023|EPI	label_background	#7cd88e
+hCoV-19/Colombia/DC-INS-VG-30869/2023|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/SAN-INS-VG-30104/2023|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/PUT-INS-VG-27452/2023|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/ANT-LDSP4096/2022|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/ANT-CWOHC-VG-SEC04264Z/2022|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/DC-INS-VG-25605/2022|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/DC-INS-VG-30566/2023|EPI	label_background	#ff8b9e
+hCoV-19/Aruba/AW-RIVM-130922/2023|EPI	label_background	#52a0c9
+hCoV-19/Colombia/DC-INS-VG-30985/2023|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/DC-INS-VG-30515/2023|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/VAC-INS-VG-31156/2023|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/VAC-INS-VG-31155/2023|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/VAC-INS-VG-31154/2023|EPI	label_background	#ff8b9e
+hCoV-19/Peru/LIM-INS-47142/2023|EPI	label_background	#7cd88e
+hCoV-19/Ecuador/GENSBIO-INSPI-104544/2023|EPI	label_background	#f2da77
+hCoV-19/Ecuador/GENSBIO-INSPI-104488/2023|EPI	label_background	#f2da77
+hCoV-19/Ecuador/GENSBIO-INSPI-1812-7112/2023|EPI	label_background	#f2da77
+hCoV-19/Colombia/DC-INS-VG-30454/2023|EPI	label_background	#ff8b9e
+hCoV-19/Venezuela/DttoLAB0/2023|EPI	label_background	#efcfff
+hCoV-19/Venezuela/Dtto8964/2023|EPI	label_background	#efcfff
+hCoV-19/Colombia/CUN-INS-VG-29520/2023|EPI	label_background	#ff8b9e
+hCoV-19/Ecuador/GENSBIO-INSPI-104380/2023|EPI	label_background	#f2da77
+hCoV-19/Colombia/DC-INS-VG-30839/2023|EPI	label_background	#ff8b9e
+hCoV-19/Aruba/AW-RIVM-130905/2023|EPI	label_background	#52a0c9
+hCoV-19/Colombia/DC-LSPSDS-31530/2023|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/DC-INS-VG-30163/2023|EPI	label_background	#ff8b9e
+hCoV-19/Venezuela/Dtto2565/2023|EPI	label_background	#efcfff
+hCoV-19/Colombia/DC-INS-VG-30495/2023|EPI	label_background	#ff8b9e
+hCoV-19/Venezuela/Dtto2551/2023|EPI	label_background	#efcfff
+hCoV-19/Colombia/SAN-INS-VG-30346/2023|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/DC-INS-VG-30910/2023|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/DC-INS-VG-30451/2023|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/DC-INS-VG-30509/2023|EPI	label_background	#ff8b9e
+hCoV-19/Colombia/DC-INS-VG-30332/2023|EPI	label_background	#ff8b9e
