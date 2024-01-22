@@ -15,8 +15,6 @@ Al final de este curso los participantes estarán en la capacidad de usar la caj
 
 Este curso fue desarollado a partir del curso '_SARS-CoV-2 Bioinformatics for Beginners (B4B)_' y el modelo de enseñanza desarrollado por [H3ABioNet](https://www.h3abionet.org), ver [publication](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008640) para mayor información. 
 
-[Course website](...)                  
-[Glossary](Glossary.md)
 
 ## Infraestructura computacional del curso  
 
