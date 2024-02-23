@@ -65,7 +65,7 @@ El programa cubrirá los siguientes temas generales:
 
 - [Katherine Laiton](https://scholar.google.com.co/citations?user=jRxRgEUAAAAJ&hl=en), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Héctor Ruiz](), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
-- [Paola Rojas](https://www.researchgate.net/profile/Paola-Rojas-Estevez), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
+- [Paola Rojas-Estevez](https://www.researchgate.net/profile/Paola-Rojas-Estevez), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Johan F Bernal](https://scholar.google.com/citations?user=198RUBwAAAAJ&hl=en), [Corporacion Colombiana de Investigacion Agropecuaria - AGROSAVIA](https://www.agrosavia.co/), Bogota - Colombia.
 
 ## Información soporte
